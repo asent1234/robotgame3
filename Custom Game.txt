@@ -1,0 +1,71 @@
+Game Design:
+
+1. Characters(PC, NPCs)
+PC - weak robot
+NPCs - stronger robots
+2. Goal
+Defeat the the 3 stronger robots. 
+3. Rules
+You move with arrow keys or WASD
+As you defeat robots, you take thier ablity
+PC upgrade - shooter sword(Player choose)
+The 3 NPCs can attack you with their ability, fire, lightning, water.
+fire - beam
+lightning - three way beam
+water - barrier ( rare damage)
+fire water lightning(small lightning robots) 
+Set health using points, and if you hit your attack against npc they lose heatlh. 
+After a battle you get points, and before last battle you can use those points to 
+upgrade one of your ablities  
+Each ability has a damage points
+
+Regeneration 20 points per minute(needs work)
+shooter( 10 shots max, gain one every 20 frames) - 50
+sword( 15 hits max, gain one every 30 frames) - 80 
+fire( 5 hits max, gain one every 50 frames) - 40 X frame exposure
+water( 1 hit max gain one ever 100 frames) - 60 + reduced movement
+
+4. Balanced Rules
+You start with an ability, betweeen shooter or sword.
+ 
+5. Adaptive
+As abilities increase robots get stronger. 
+6. Skill and Chance 
+Random positioning of NPCs , 
+
+7. Imediate Feedback
+sounds finish sound, score sound, 
+8. Story
+
+To do list
+Draw weak Robot
+fire robot
+fire ability drawing
+sword ability drawing
+shoot ability drawing
+
+Fix Background
+Write Text for scrolling story
+and if MouseisPressed for scroll
+
+next class
+ground
+and screen for first ability pick
+then transistion to Play State
+
+first add use ability functionality 
+then create robot and fight scene
+
+
+
+
+
+Welcome to Mechadon
+Socket is a little robot, being very weak.
+As he was weak he was picked on by the Pyro, Hydron, and Bolt.
+He wanted to take revenge.
+They had dungeons filled with robots and dangers and Socket couldnt take revenege.
+Socket was too weak. 
+Socket realized he needed an upgrade.
+You will help Socket, a weak robot face his enemies(bullies). 
+Help him choose his beggining ability.
